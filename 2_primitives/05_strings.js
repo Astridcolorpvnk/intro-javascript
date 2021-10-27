@@ -1,7 +1,7 @@
 var one = '1'
 var two = 2
 
-var result = one * two
+var result = one + two
 
 console.log(typeof(result));
 console.log(result);
